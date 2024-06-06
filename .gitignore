@@ -1,0 +1,16 @@
+# Editors
+.idea/
+.vscode/
+
+# Executables
+pwdc
+pwdc.exe
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+*~
+.directory
